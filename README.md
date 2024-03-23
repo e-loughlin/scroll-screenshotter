@@ -1,6 +1,7 @@
 # Scroll and Screenshot Tool
 
 A tool that does this in a loop:
+
     1) Scrolls up
     2) Takes a screenshot, saves file to directory
 
