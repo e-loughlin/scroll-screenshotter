@@ -28,7 +28,7 @@ args = parse_args()
 
 count = 0
 
-print("Focus Microsoft Teams on your monitor.")
+print("Focus your application on your monitor.")
 print("Starting in...")
 for i in range(3):
     print(3-i)

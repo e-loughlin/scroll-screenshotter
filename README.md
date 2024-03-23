@@ -6,6 +6,7 @@ A tool that does this in a loop:
 
 Keeps repeating until two screenshots are the same.
 
+Was originally built to screenshot chats in Microsoft Teams, because not every version allows you to export / save the chats. But can be used for every application that requires scrolling to see things you might want to collect.
 
 For information and additional options, run `python scroll-screenshotter.py -h`
 
