@@ -25,4 +25,3 @@ Example:
 `python scroll-screenshotter.py -s 20 -o /Users/eloughlin/Desktop -t <my_run_name>` will screenshot and save to that directory every time it scrolls 20 times.
 
 Each of the screenshots will be named like "chat_with_evan_01.jpg" etc...
-# scroll-screenshotter
