@@ -13,8 +13,6 @@ For information and additional options, run `python scroll-screenshotter.py -h`
 
 - Python 3
 
-- Source the virtual environment using `source ./env/bin/activate`
-
 - Install requirements with `pip install -r requirements.txt`
 
 ## Using
